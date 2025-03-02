@@ -132,11 +132,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/login_button"
-                    android:textSize="17sp"
                     android:textColor="#FFFFFF"
                     android:backgroundTint="#E66A3C"
-                    android:paddingVertical="12dp"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold"
+                    />
+
             </LinearLayout>
         </androidx.cardview.widget.CardView>
     </androidx.cardview.widget.CardView>

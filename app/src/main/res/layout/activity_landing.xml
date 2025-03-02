@@ -9,7 +9,7 @@
     android:background="@drawable/bg_gradient"
     android:padding="24dp"
     android:gravity="center_horizontal"
-    tools:context=".LoginActivity">
+    tools:context=".LandingActivity">
 
     <TextView
         android:id="@+id/welcomeText"
